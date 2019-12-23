@@ -2,6 +2,7 @@
 Contains a block list list that is created using several block lists
 
 Using:
+
 https://blocklist.site/app/dl/crypto
 https://blocklist.site/app/dl/drugs
 https://blocklist.site/app/dl/fraud
